@@ -1,2 +1,7 @@
-# macOS
-.DS_STORE
+# General macOS garbage
+.DS_Store
+.localized
+__MACOSX/
+.AppleDouble
+.LSOverride
+Icon[]

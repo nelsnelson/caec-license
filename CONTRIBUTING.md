@@ -1,6 +1,6 @@
-# Contributing to CC Open Source
+# Contributing to CAEC Open Source
 
-Thank you for your interest in contributing to CC Open Source! This document is
+Thank you for your interest in contributing to CAEC Open Source! This document is
 a set of guidelines to help you contribute to this project.
 
 
@@ -9,7 +9,7 @@ a set of guidelines to help you contribute to this project.
 By participating in this project, you are expected to uphold our [Code of
 Conduct][code_of_conduct].
 
-[code_of_conduct]: https://opensource.creativecommons.org/community/code-of-conduct/
+[code_of_conduct]: https://humanitycommonwealth.org/community/code-of-conduct/
 
 
 ## Project Documentation
@@ -24,11 +24,12 @@ file a GitHub issue with details of what you'd like to see documented.
 Please follow the processes in our general [Contributing Code][contributing]
 guidelines on the Creative Common Open Source website.
 
-[contributing]: https://opensource.creativecommons.org/contributing-code/
+[contributing]: https://humanitycommonwealth.org/contributing-code/
 
 
 ## Questions or Thoughts?
 
 Talk to us on [one of our community forums][community].
 
-[community]: https://opensource.creativecommons.org/community/
+[community]: https://humanitycommonwealth.org/community/
+

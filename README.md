@@ -57,18 +57,6 @@ This section uses project-specific terms. Please reference
 - **Language Code:** `en`
 
 
-#### Example: CAEC License 1.0 ES
-
-- **Category:** `licenses`
-- **Title:** Commons Against Empire and Capital License 1.0 International
-- **Identifier:** CAEC License 1.0 ES
-- **Canonical URL:** `https://your-domain.example/licenses/caec/1.0/deed.es`
-- **Unit:** `caec`
-- **Version:** `1.0`
-- **Jurisdiction Code:** *None* (International)
-- **Language Code:** `es`
-
-
 ### Public Interest Cultural Tools
 
 

@@ -1,0 +1,238 @@
+Commons Against Empire and Capital License 1.0 International
+
+By exercising the Licensed Rights (defined below), You accept and agree to be
+bound by the terms and conditions of this Commons Against Empire and Capital
+License 1.0 International Public License ("Public License"). To the extent this
+Public License may be interpreted as a contract, You are granted the Licensed
+Rights in consideration of Your acceptance of these terms and conditions, and
+the Licensor grants You such rights in consideration of benefits the Licensor
+receives from making the Licensed Material available under these terms and
+conditions.
+
+This Public License is intended to facilitate the circulation, study,
+preservation, adaptation, and collective use of literary and artistic works
+outside commercial exploitation, colonial domination, military occupation,
+extractive accumulation, and related systems of empire.
+
+Section 1 - Definitions.
+
+a. Adapted Material means material subject to Copyright and Similar Rights that
+is derived from or based upon the Licensed Material and in which the Licensed
+Material is translated, altered, arranged, transformed, or otherwise modified in
+a manner requiring permission under the Copyright and Similar Rights held by the
+Licensor. For purposes of this Public License, where the Licensed Material is a
+musical work, performance, or sound recording, Adapted Material is always
+produced where the Licensed Material is synched in timed relation with a moving
+image.
+
+b. Adapter's License means the license You apply to Your Copyright and Similar
+Rights in Your contributions to Adapted Material in accordance with the terms
+and conditions of this Public License.
+
+c. Compatible License means a license designated by the Licensor, or by a public
+compatibility list identified by the Licensor, as essentially equivalent to this
+Public License in preserving Attribution, NonCommercial, ShareAlike,
+anti-capitalist, and anti-imperialist conditions.
+
+d. Copyright and Similar Rights means copyright and/or similar rights closely
+related to copyright including, without limitation, performance, broadcast, sound
+recording, and Sui Generis Database Rights, without regard to how the rights are
+labeled or categorized. For purposes of this Public License, the rights specified
+in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
+
+e. Effective Technological Measures means those measures that, in the absence of
+proper authority, may not be circumvented under laws fulfilling obligations under
+Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or
+similar international agreements.
+
+f. Exceptions and Limitations means fair use, fair dealing, and/or any other
+exception or limitation to Copyright and Similar Rights that applies to Your use
+of the Licensed Material.
+
+g. License Elements means the license attributes listed in the name of this
+Public License. The License Elements of this Public License are Attribution,
+NonCommercial, ShareAlike, AntiCapitalist, and AntiImperialist.
+
+h. Licensed Material means the artistic or literary work, database, or other
+material to which the Licensor applied this Public License.
+
+i. Licensed Rights means the rights granted to You subject to the terms and
+conditions of this Public License, which are limited to all Copyright and Similar
+Rights that apply to Your use of the Licensed Material and that the Licensor has
+authority to license.
+
+j. Licensor means the individual(s) or entity(ies) granting rights under this
+Public License.
+
+k. NonCommercial means not primarily intended for or directed towards commercial
+advantage, private profit, shareholder return, rent extraction, speculative gain,
+or monetary compensation. For purposes of this Public License, use by a for-
+profit entity is presumed commercial unless the use is solely for internal study,
+criticism, research, or archiving and is not connected to advertising, branding,
+market positioning, product development, model training, sale, licensing,
+fundraising, or revenue generation. The exchange of the Licensed Material for
+other material subject to Copyright and Similar Rights by digital file-sharing or
+similar means is NonCommercial provided there is no payment of monetary
+compensation in connection with the exchange.
+
+l. Prohibited Entity means any individual, organization, institution, or state
+body using the Licensed Material in connection with: (1) military occupation,
+annexation, colonization, or settlement; (2) apartheid, ethnic cleansing,
+genocide, persecution, collective punishment, or forced displacement; (3)
+intelligence, surveillance, policing, incarceration, border militarization,
+detention, deportation, or carceral administration; (4) extraction or enclosure
+of land, water, labor, culture, or knowledge for private accumulation; (5)
+advertising, propaganda, public relations, lobbying, or narrative laundering in
+support of any activity listed in this definition; or (6) fossil fuel expansion,
+arms manufacturing, mercenary contracting, or other materially comparable systems
+of violent domination or dispossession.
+
+m. Share means to provide material to the public by any means or process that
+requires permission under the Licensed Rights, such as reproduction, public
+display, public performance, distribution, dissemination, communication, or
+importation, and to make material available to the public including in ways that
+members of the public may access the material from a place and at a time
+individually chosen by them.
+
+n. Sui Generis Database Rights means rights other than copyright resulting from
+Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996
+on the legal protection of databases, as amended and/or succeeded, as well as
+other essentially equivalent rights anywhere in the world.
+
+o. You means the individual or entity exercising the Licensed Rights under this
+Public License. Your has a corresponding meaning.
+
+Section 2 - Scope.
+
+a. License grant. Subject to the terms and conditions of this Public License, the
+Licensor hereby grants You a worldwide, royalty-free, non-sublicensable,
+non-exclusive, irrevocable license to exercise the Licensed Rights in the
+Licensed Material to: (1) reproduce and Share the Licensed Material, in whole or
+in part, for NonCommercial purposes only; and (2) produce, reproduce, and Share
+Adapted Material for NonCommercial purposes only. No license is granted to any
+Prohibited Entity, nor for any use in support of a Prohibited Entity, whether or
+not that use is nominally NonCommercial.
+
+b. Exceptions and Limitations. Where Exceptions and Limitations apply to Your
+use, this Public License does not apply, and You do not need to comply with its
+terms and conditions.
+
+c. Term. The term of this Public License is specified in Section 6(a).
+
+d. Media and formats; technical modifications allowed. The Licensor authorizes
+You to exercise the Licensed Rights in all media and formats whether now known or
+hereafter created, and to make technical modifications necessary to do so.
+Simply making such technical modifications never produces Adapted Material.
+
+e. Downstream recipients. Every recipient of the Licensed Material automatically
+receives an offer from the Licensor to exercise the Licensed Rights under the
+terms and conditions of this Public License. Every recipient of Adapted Material
+from You automatically receives an offer from the Licensor to exercise the
+Licensed Rights in the Adapted Material under the conditions of the Adapter's
+License You apply. You may not offer or impose any additional or different terms
+or conditions on, or apply any Effective Technological Measures to, the Licensed
+Material if doing so restricts exercise of the Licensed Rights by any recipient,
+except that the anti-capitalist and anti-imperialist restrictions must be
+preserved.
+
+f. No endorsement. Nothing in this Public License constitutes or may be construed
+as permission to assert or imply that You are, or that Your use of the Licensed
+Material is, connected with, or sponsored, endorsed, or granted official status
+by, the Licensor or others designated to receive attribution.
+
+g. Other rights. Moral rights, publicity, privacy, and similar personality rights
+are not licensed under this Public License; however, to the extent possible, the
+Licensor waives and/or agrees not to assert any such rights to the limited extent
+necessary to allow You to exercise the Licensed Rights. Patent and trademark
+rights are not licensed. To the extent possible, the Licensor waives any right
+to collect royalties for NonCommercial exercise of the Licensed Rights.
+
+Section 3 - License Conditions.
+
+a. Attribution. If You Share the Licensed Material (including in modified form),
+You must: (1) retain identification of the creator(s), a copyright notice, a
+notice referring to this Public License, a notice referring to the disclaimer of
+warranties, and a URI or hyperlink to the Licensed Material to the extent
+reasonably practicable; (2) indicate if You modified the Licensed Material; and
+(3) indicate the Licensed Material is licensed under this Public License and
+include the text of, or a URI or hyperlink to, this Public License. These
+conditions may be satisfied in any reasonable manner based on the medium, means,
+and context of sharing. If requested by the Licensor, You must remove attribution
+information to the extent reasonably practicable.
+
+b. ShareAlike. If You Share Adapted Material, the Adapter's License You apply
+must be this Public License, a later version published by the same steward, or a
+Compatible License. You must include the text of, or a URI or hyperlink to, the
+Adapter's License. You may not impose any additional or different terms or
+conditions or apply Effective Technological Measures that restrict exercise of
+the rights granted under the Adapter's License.
+
+c. Anti-capitalist and anti-imperialist restriction. You may not exercise the
+Licensed Rights in any manner that generates, supports, or is materially
+connected to private profit, extractive accumulation, speculative gain, or
+commercial brand advantage, except where the Licensor has separately granted
+express written permission. You may not exercise the Licensed Rights if You are
+a Prohibited Entity or if Your use materially supports, legitimizes, trains,
+assists, advertises, or launders the public image of a Prohibited Entity. This
+restriction applies whether the use is direct or indirect, and whether the
+Licensed Material is used in full, in part, in excerpted form, in adaptation, in
+dataset form, in training material, in promotional material, or as part of a
+larger collection.
+
+Section 4 - Sui Generis Database Rights.
+
+Where the Licensed Rights include Sui Generis Database Rights: (a) You may
+extract, reuse, reproduce, and Share all or a substantial portion of the database
+contents for NonCommercial purposes only and never by or for a Prohibited Entity;
+(b) if You include a substantial portion of the database contents in a database
+in which You have Sui Generis Database Rights, that database (but not its
+individual contents) is Adapted Material; and (c) You must comply with Section
+3(a) if You Share all or a substantial portion of the database contents. This
+Section supplements and does not replace Your obligations under this Public
+License where the Licensed Rights include other Copyright and Similar Rights.
+
+Section 5 - Disclaimer of Warranties and Limitation of Liability.
+
+TO THE EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS AND
+AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER
+EXPRESS, IMPLIED, STATUTORY, OR OTHER, INCLUDING WARRANTIES OF TITLE,
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR ABSENCE
+OF ERRORS. TO THE EXTENT POSSIBLE, IN NO EVENT WILL THE LICENSOR BE LIABLE FOR
+ANY DIRECT, SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, EXEMPLARY,
+OR OTHER LOSSES, COSTS, EXPENSES, OR DAMAGES ARISING OUT OF THIS PUBLIC LICENSE
+OR USE OF THE LICENSED MATERIAL. WHERE SUCH DISCLAIMERS OR LIMITATIONS ARE NOT
+ALLOWED, THEY MAY NOT APPLY TO YOU. THE FOREGOING SHALL BE INTERPRETED TO MOST
+CLOSELY APPROXIMATE AN ABSOLUTE DISCLAIMER AND WAIVER OF ALL LIABILITY.
+
+Section 6 - Term and Termination.
+
+This Public License applies for the term of the Copyright and Similar Rights
+licensed here. If You fail to comply, Your rights terminate automatically, and
+reinstate: (1) automatically if the violation is cured within 30 days of Your
+discovery; or (2) upon express reinstatement by the Licensor. The Licensor may
+offer the Licensed Material under separate terms or stop distributing at any
+time without terminating this Public License. Sections 1, 5, 6, 7, and 8
+survive termination.
+
+Section 7 - Other Terms and Conditions.
+
+The Licensor shall not be bound by any additional or different terms communicated
+by You unless expressly agreed. Any arrangements regarding the Licensed Material
+not stated herein are separate from and independent of this Public License.
+
+Section 8 - Interpretation.
+
+This Public License does not reduce, limit, restrict, or impose conditions on any
+use that could lawfully be made without permission under this Public License. If
+any provision is deemed unenforceable, it shall be automatically reformed to the
+minimum extent necessary, or severed if it cannot be reformed, without affecting
+the remaining terms. No term will be waived and no failure to comply consented to
+unless expressly agreed. Nothing in this Public License constitutes a limitation
+upon or waiver of any privileges and immunities that apply to the Licensor or You.
+
+---
+
+This is an independent custom license. It is not a Creative Commons license, is
+not approved by Creative Commons, and must not be presented using Creative
+Commons trademarks or as a Creative Commons legal tool.
+
